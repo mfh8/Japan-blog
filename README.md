@@ -1,5 +1,3 @@
-title: Welcome to Meghan's homepage
-
 ## Welcome to my blog!
 
 I have wanted to study abroad in Japan for years and am excited to finally be here. In this blog I will write about my experiences and  observations.
