@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my blog!
 
-You can use the [editor on GitHub](https://github.com/mfh8/Japan-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have wanted to study abroad in Japan for years and am excited to finally be here. In this blog I will write about my experiences and  observations.
 
 ### Markdown
 
